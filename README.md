@@ -1,4 +1,4 @@
-# CDIS
+# Cancer and Disease Identification System (CDIS)
 
 This Readme presents Cancer and Disease Identification System (CDIS), an online identification system for different types of cancers and diseases. CDIS database has been populated with 100+ cancer and disease types and 200+ symptoms via multiple available web pages. It is vital for the cancer to be diagnosed in an early stage. Certain cancer types have the same symptoms as an everyday sickness, while some cancer types might not show any symptoms until the stage of the cancer increases. CDIS calculates the possibilities for each cancer and disease and shows patient the possible outcomes and possibilities. 
 
