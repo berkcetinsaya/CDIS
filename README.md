@@ -14,7 +14,7 @@ When you clone it, put the master folder to your web server directory. Then, imp
 
 In this file, I present Cancer and Disease Identification System (CDIS). CDIS is an online database driven identification system regarding different cancer and disease types. Most patients with cancer/disease symptoms don’t investigate their symptoms due to their symptoms being the same as an everyday sickness. Symptoms get more severe as cancer spreads and the stage of the cancer increases. 
 
-There exists 100+ cancer and disease types in CDIS. Cancers and Diseases can be severe if they are not diagnosed with the first symptoms [1]. Also there exists cancers that may not cause any symptoms until the tumor grows large. In certain cases, patients understand symptoms but are not resourceful enough to explore the causes of their symptoms.
+There exists 100+ cancer and disease types in CDIS. Cancers and Diseases can be severe if they are not diagnosed with the first symptoms. Also there exists cancers that may not cause any symptoms until the tumor grows large. In certain cases, patients understand symptoms but are not resourceful enough to explore the causes of their symptoms.
 
 CDIS database has been populated after a thorough search through the web for cancers and symptoms. Multiple sources have been exploited and the symptoms list has been generated for each cancer and disease in the database. CDIS allows users to search for their symptoms by either selecting from 200+ symptoms or typing their symptoms in a sentence form. According to the given symptoms CDIS calculates the possibilities for each cancer and disease, and displays the probabilities. Each possibility creates a hyperlink which explains each cancer or disease. 
 
