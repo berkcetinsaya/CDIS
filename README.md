@@ -4,7 +4,11 @@ This Readme presents Cancer and Disease Identification System (CDIS), an online 
 
 ## Usage
 
-When you clone it, put the master folder to your web server directory. Then, import the cdis.sql file to your mysql database. By default, it will create a new database called as cdis with the tables. In case if it does not work, you can use cdisTable.sql to import only the tables into the database you created. By default, it will only create a patient profile. In order to create a surgeon account, you have to create a user as usual. Then, change `type` to `1` and add `hospital` information in `user` table in the database. P.S: The social media module is not available right now.
+When you clone it, put the master folder to your web server directory. Then, import the cdis.sql file to your mysql database. By default, it will create a new database called as cdis with the tables. In case if it does not work, you can use cdisTable.sql to import only the tables into the database you created. By default, it will only create a patient profile. In order to create a surgeon account, you have to create a user as usual. Then, change `type` to `1` and add `hospital` information in `user` table in the database. You have to also change the google captcha api key in `signin.php` and `signup.php`.
+
+```
+<div class="g-recaptcha" data-sitekey="YOURKEY"></div><br />
+```P.S: The social media module is not available right now.
 
 ## Introduction
 
